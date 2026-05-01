@@ -12,3 +12,9 @@ When PunchThrough discontinued the LightBlue Bean and Bean+, they open-sourced t
 Unless otherwise noted, examples were written by the PunchThrough team and are in the public domain. This info should be in the files, but I'm trying to get some basic material up immediately, and then I'll double-check.
 
 I'm planning to upload two versions: a backup of their originals, and new versions I've been able to compile and upload in 2026 (using the PlatformIO plugin in VSCode).
+
+## Other resources
+* Archived examples page: https://web.archive.org/web/20151220051847/http://legacy.punchthrough.com/bean/examples
+* Archived getting-started page: https://web.archive.org/web/20160920033849/http://punchthrough.com/bean/guides/getting-started/intro
+* My ancient tutorial on Hackster.io (2016): https://www.hackster.io/glowascii/lightblue-bean-arduino-basics-de7a94
+* More LightBlue Bean & Bean+ projects on Hackster.io: https://www.hackster.io/punchthrough/projects
