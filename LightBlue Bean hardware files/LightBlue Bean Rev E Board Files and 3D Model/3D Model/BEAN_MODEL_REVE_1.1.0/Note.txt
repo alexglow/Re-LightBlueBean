@@ -1,0 +1,1 @@
+This folder containing the two .png files is necessary to get the correct bean color scheme with the .dae model.
